@@ -78,7 +78,7 @@ export const AboutMe = (props: any) => {
         Experienced MERN STACK Developer
       </motion.div>
       <div className="image_container">
-        <img src="/images/david.webp" alt="" />
+        <img src="/images/david.png" alt="" />
       </div>
     </div>
   );
