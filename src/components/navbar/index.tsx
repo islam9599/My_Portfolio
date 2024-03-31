@@ -14,16 +14,16 @@ export const Navbar = () => {
           animate={{ opacity: 1, scale: 1 }}
           transition={{ duration: 0.5 }}
         >
-          Islam9599(David) Dev
+          Islombek (David) Ergashev
         </motion.span>
         <div className="social">
-          <a href="#">
+          <a href="https://www.facebook.com/islombek.ergashev.315/">
             <img src="/images/facebook.png" alt="" />
           </a>
-          <a href="#">
+          <a href="https://www.instagram.com/eislombek9995/">
             <img src="/images/instagram.png" alt="" />
           </a>
-          <a href="#">
+          <a href="https://github.com/islam9599">
             <FaGithub />
           </a>
         </div>

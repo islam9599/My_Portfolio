@@ -3,12 +3,14 @@ import "./scss/app.scss";
 
 import { Test } from "./test";
 import { Navbar } from "./components/navbar";
+import { AboutMe } from "./screen/aboutMe";
 
 function App() {
   return (
     <div>
       <section id="Homepage">
         <Navbar />
+        <AboutMe />
       </section>
       <section id="Skills">Skills</section>
       <section id="Abu_Macshop_Uz">Abu_Macshop_Uz</section>
