@@ -7,15 +7,14 @@ import { Navbar } from "./components/navbar";
 function App() {
   return (
     <div>
-      <section>
+      <section id="Homepage">
         <Navbar />
       </section>
-      <section>Parallax</section>
-      <section>Services</section>
-      <section>Project1</section>
-      <section>Project2</section>
-      <section>Project3</section>
-      <section>Contact</section>
+      <section id="Skills">Skills</section>
+      <section id="Abu_Macshop_Uz">Abu_Macshop_Uz</section>
+      <section id="Abu_Macshop_Admin">Abu_Macshop_Admin</section>
+      <section id="Other_Projects">Other_Projects</section>
+      <section id="Contact">Contact</section>
     </div>
   );
 }

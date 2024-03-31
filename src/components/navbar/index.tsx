@@ -2,10 +2,12 @@ import React from "react";
 import "../../scss/navbar.scss";
 import { FaGithub } from "react-icons/fa";
 import { motion } from "framer-motion";
+import { Sidebar } from "../siderbar";
 
 export const Navbar = () => {
   return (
     <div className="navbar">
+      <Sidebar />
       <div className="wrapper">
         <motion.span
           initial={{ opacity: 0, scale: 0.5 }}
