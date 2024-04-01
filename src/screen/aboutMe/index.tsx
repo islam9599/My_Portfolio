@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useState } from "react";
 import { motion } from "framer-motion";
 import "../../scss/about_me.scss";
 
@@ -54,12 +54,6 @@ export const AboutMe = (props: any) => {
             Ergashev Islombek(David)
           </motion.h2>
           <motion.h1 variants={textVariants}>Full Stack Developer</motion.h1>
-          <motion.div className="buttons" variants={textVariants}>
-            <motion.button variants={textVariants}>
-              See the latest work
-            </motion.button>
-            <motion.button variants={textVariants}>Contact Me</motion.button>
-          </motion.div>
           <motion.img
             src="/images/scroll.png"
             alt=""

@@ -5,6 +5,11 @@ import { AboutMe } from "./screen/aboutMe";
 import { Skills } from "./screen/Skills";
 import { MySkills } from "./screen/Skills/myResume";
 import { MyProjects } from "./screen/myProjects";
+import { MacshopDescription } from "./screen/myProjects/macshopDetails";
+import { ErModelling } from "./screen/myProjects/erModelling";
+import { AdminPanel } from "./screen/adminPanel";
+import { OtherProjects } from "./screen/otherProjects";
+import { Contact } from "./screen/contact";
 
 function App() {
   return (
@@ -25,9 +30,21 @@ function App() {
       <section>
         <MyProjects />
       </section>
-      <section id="Abu_Macshop_Admin">Abu_Macshop_Admin</section>
-      <section id="Other_Projects">Other_Projects</section>
-      <section id="Contact">Contact</section>
+      <section>
+        <MacshopDescription />
+      </section>
+      <section>
+        <ErModelling />
+      </section>
+      <section id="Abu_Macshop_Admin">
+        <AdminPanel />
+      </section>
+      <section id="Other_Projects">
+        <OtherProjects />
+      </section>
+      <section id="Contact">
+        <Contact />
+      </section>
     </div>
   );
 }
