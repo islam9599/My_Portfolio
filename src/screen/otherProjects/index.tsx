@@ -46,7 +46,7 @@ export const OtherProjects = (props: any) => {
           </span>
 
           <motion.img
-            src="/macshop/enginex_3.png"
+            src="/macshop/enginex_4.png"
             alt=""
             style={{ marginTop: "85px" }}
           />
