@@ -3,8 +3,8 @@ import { motion } from "framer-motion";
 
 const items = [
   "Homepage",
-  "Skills",
-  "Abu_Macshop_Uz",
+  "My_Resume",
+  "My_Projects",
   "Abu_Macshop_Admin",
   "Other_Projects",
   "Contact",

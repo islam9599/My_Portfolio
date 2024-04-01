@@ -1,6 +1,6 @@
 import React from "react";
 import { motion } from "framer-motion";
-import "../../scss/about-me.scss";
+import "../../scss/about_me.scss";
 
 const textVariants = {
   initial: {
