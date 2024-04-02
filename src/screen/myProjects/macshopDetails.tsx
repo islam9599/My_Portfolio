@@ -43,6 +43,12 @@ export const MacshopDescription = (props: any) => {
             CONFIG, PM2 PLUS, GRAFANA, VPC, && VPS ENGINEERING. ENSURING OPTIMAL
             PERFORMANCE, ROBUST SECURITY,ANDSEAMLESS SCALABILITY.
           </span>
+          <h2>
+            <strong>Frontend: </strong>HTML, CSS, REACTJS, TYPESCRIPT, MUI,
+            REACT-ROUTER- DOM, REDUX, SWIPER, SWEETALERT2, AXIOS, SOCKET.IO-
+            CLIENT. <br /> <strong>Backend:</strong> MONGODB, MONGOOSE, NODEJS,
+            REST API, JSONWEBTOKEN, MULTER, ASSERT, COOKIE-PARSER, DOTENV.
+          </h2>
           <motion.img
             src="/macshop/details_1.png"
             alt=""

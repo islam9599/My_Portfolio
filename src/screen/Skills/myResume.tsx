@@ -24,7 +24,8 @@ export const MySkills = (props: any) => {
             : "linear-gradient(180deg, #111132, #505064 )",
       }}
     >
-      {<motion.h1 style={{ y: yBg }}>My Resume</motion.h1>}
+      {<motion.h3 style={{ y: yBg }}>My Resume</motion.h3>}
+
       <motion.img src="/images/my_resume.jpeg" alt="" />
       <motion.div
         className="planets"

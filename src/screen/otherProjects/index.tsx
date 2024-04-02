@@ -44,6 +44,16 @@ export const OtherProjects = (props: any) => {
             Bootstrap, SweetAlert2, Swiper, and PixelJS, I aimed to deliver a
             visually striking and seamlessly interactive user experience.
           </span>
+          <h2>
+            <strong>Description:</strong> Enginx is a sophisticated online
+            learning platform offering a wide array of paid courses, including
+            those covering MERN stack and Artificial Intelligence.
+          </h2>
+          <h2>
+            <strong>My contribution:</strong> Leveraging an assortment of
+            cutting-edge technologies such as JavaScript, JQuery, EJS, HTML,
+            CSS, Axios, Bootstrap, SweetAlert2, Swiper.
+          </h2>
 
           <motion.img
             src="/macshop/enginex_4.png"

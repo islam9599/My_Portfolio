@@ -5,7 +5,6 @@ const items = [
   "Homepage",
   "My_Resume",
   "My_Projects",
-  "Abu_Macshop_Admin",
   "Other_Projects",
   "Contact",
 ];

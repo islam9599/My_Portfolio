@@ -35,15 +35,21 @@ export const ErModelling = (props: any) => {
             conceptual schema that represents the structure of the data and the
             relationships between entities.
           </span>
-
+          <h2>
+            Entity-relationship (ER) modeling is a method used to visualize and
+            describe the relationships between different entities in a system or
+            database. It's commonly used in database design to create a
+            conceptual schema that represents the structure of the data and the
+            relationships between entities.
+          </h2>
           <motion.img
-            src="/macshop/er_model.jpg"
+            src="/macshop/details_4.png"
             alt=""
             style={{ marginTop: "85px" }}
           />
         </div>
         <div className="img_wrapper">
-          <motion.img src="/macshop/details_4.png" alt="" />
+          <motion.img src="/macshop/er_model.jpg" alt="" />
           <motion.img src="/macshop/details_5.png" alt="" />
         </div>
       </div>

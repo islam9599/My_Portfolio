@@ -33,6 +33,11 @@ export const Contact = (props: any) => {
             alt=""
             style={{ marginTop: "85px", zIndex: 4 }}
           />
+          <p>
+            Ergashev Islombek (David) <br /> eislombek9599@gmail.com <br />
+            010-2308-8288 <br />
+            서울 광진구 화양동 8-82
+          </p>
         </div>
         <div className="img_wrapper">
           <motion.img

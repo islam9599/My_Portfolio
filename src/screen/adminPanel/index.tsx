@@ -48,6 +48,14 @@ export const AdminPanel = (props: any) => {
             express-session, bcryptjs JWT, Assert, cookie-parser, socket.io,
             Dotenv.
           </span>
+          <h2>
+            <strong>Description:</strong> Empowering sellers to show and sell
+            their products effectively. <br /> <strong>Frontend:</strong> HTML,
+            Bootstrap, CSS, Axios, EJS, SweetAlert2, jQuery. <br />{" "}
+            <strong>Backend:</strong> HTML, Node.js, Express, MongoDB, Mongoose,
+            express-session, bcryptjs JWT, Assert, cookie-parser, socket.io,
+            Dotenv.
+          </h2>
 
           <motion.img
             src="/macshop/admin_1.png"

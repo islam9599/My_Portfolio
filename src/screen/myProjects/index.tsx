@@ -48,6 +48,17 @@ export const MyProjects = (props: any) => {
             available on the products page. Users receive notifications from the
             admin to stay updated
           </span>
+          <h2>
+            <strong> Description:</strong> I've developed a comprehensive
+            full-stack web application utilizing the MVC architecture. This
+            platform offers users a reliable space to browse and purchase
+            products related to electronic devices. This platform is very user
+            friendly with creating blogs and live chat among users! <br />
+            <br />
+            <strong>Functionality:</strong> The project boasts a range of
+            functionalities, including user authentication and login
+            capabilities. Users can create and publish blog posts.
+          </h2>
           <motion.img src="/macshop/products_1.png" alt="" />
         </div>
         <div className="img_wrapper">
